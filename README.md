@@ -30,8 +30,11 @@ Note: the data file should not contain the column name
 
 ## Output(example)
 level: 1, height:0.5, list=[4, 6]
+
 level: the order of merged 
+
 height: the height of merged object 
+
 list: the list of object index when they are merged
 
 
