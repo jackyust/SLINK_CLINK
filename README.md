@@ -33,7 +33,7 @@ level: 1, height:0.5, list=[4, 6]
 
 level: the order of merged 
 
-height: the height of merged object 
+height: the height of merged objects
 
 list: the list of object index when they are merged
 
