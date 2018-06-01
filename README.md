@@ -12,7 +12,8 @@ An Efficient Algorithm for a Complete Link Method
 The Computer Journal, Volume 20, Issue 4, 1 January 1977, Pages 364–366
 
 ## Note
-If removing the comments in the program, the result will show the detail value changes in each step. 
+1. JDK >= 1.7 (For TreeMap)
+2. If removing the comments in the program, the result will show the detail value changes in each step. 
 
 
 ## Usage (setting)
