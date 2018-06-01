@@ -1,5 +1,5 @@
 # SLINK_CLINK
-Implementation of SLINK, CLINK algorithm
+Implementation of SLINK(Optimized Single Linkage Clustering), CLINK(Complete Linkkage Clustering) algorithm
 
 
 ## SLINK
